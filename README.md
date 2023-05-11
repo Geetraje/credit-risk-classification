@@ -17,3 +17,5 @@ The data provided consisted of details of financial loans which included loan si
 - Created and fit a logistic regression model, this time using the resampled data
 - Evaluated the performance of this resampled model and see how it compares to the original predictions.
 - The first method used in this analysis was LogisticRegression and for the resampled version, RandomOverSampling method was used.
+
+# Results
