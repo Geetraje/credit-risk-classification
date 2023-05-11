@@ -7,3 +7,4 @@ The task is to build a model that can identify the creditworthiness of potential
 
 # Overview of the Analysis
 This analysis aims to compare two logistic regression models, one that trains with imbalanced data and one that uses random oversampling, to see the differences in their predictive performance.
+The data provided consisted of details of financial loans which included loan size, interest rate, borrower's income, debt to income ratio, number of accounts, derogatory remarks and total debt.
